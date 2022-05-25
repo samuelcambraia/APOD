@@ -1,0 +1,52 @@
+body{
+    background-image:url("https://thumbs.dreamstime.com/b/o-universo-encheu-se-com-as-estrelas-nebulosa-e-gal%C3%A1xia-elementos-disto-114473768.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;}
+    
+header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+.conteudoNasa{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+}
+footer {
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+}
+.dataeBotao {
+    display: flex;
+        justify-content: center;
+}
+.rodape{
+    background-color: rgba(0, 0, 0, 0.678);
+    color: rgb(55, 14, 240);
+    text-align: center;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    padding:2%;
+    margin-top: 27%;
+}
